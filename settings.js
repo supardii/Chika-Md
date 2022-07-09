@@ -46,7 +46,7 @@ global.author = 'Roh' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
-global.sessionName = 'sesssion'
+global.sessionName = 'session'
 
 //—————「 Set Limit 」—————//
 //terserah mau ubah atau nggak, note : tanda ' gausah di hapus!
